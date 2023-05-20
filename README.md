@@ -1,4 +1,4 @@
-# ChecfKart-Task
+# ChefKart-Task
 
 ## Video Demo -
 
